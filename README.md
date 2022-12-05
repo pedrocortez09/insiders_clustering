@@ -8,7 +8,7 @@
 
 # 1. Business Problem.
 
-This project is based in a Kaggle Challenge wich simulates a business problem. An Ecommerce called All in One Place sell second-line products from various brands at a lower price. After a year of operation, the marketing team realized that some customers buy more frequently and have a high average ticket. Based in this perception, marketing team wants to to release the "Insiders Program". The program consists in segment customers based on their similarities (looking into recency, frequency and gross revenue).
+This project is based in a Kaggle Challenge wich simulates a business problem. An Ecommerce called All in One Place sell second-line products from various brands at a lower price. After a year of operation, the marketing team realized that some customers buy more frequently and have a high average ticket. Based in this perception, marketing team wants to release the "Insiders Program". The program consists in segment customers based on their similarities (looking into recency, frequency and gross revenue).
 
 # 2. Business Assumptions.
 

@@ -41,7 +41,7 @@ My strategy to solve this challenge was:
 
 **Step 09. Convert Model Performance to Business Values:** Convert the performance of the Machine Learning model into a business result.
 
-**Step 10. Deploy Modelo to Production:** Publish the model in a cloud environment so that other people or services can use the results to improve the business decision.
+**Step 10. Deploy Model to Production:** Publish the model in a cloud environment so that other people or services can use the results to improve the business decision.
 
 # 4. Clusters Insights
 
